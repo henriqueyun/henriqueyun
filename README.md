@@ -4,7 +4,7 @@
 
 📫 henriqueyun@gmail.com
 
-🔨 Node.js, SQL, Java, HTML, CSS & Javascript
+🔨 Node.js, SQL, Java, Docker, Kubernetes, Jenkins, HTML, CSS & Javascript
 
 📚 Learning Mocha.js (tests), Quasar Framework (front-end) and Clean Code / Architecture
 
