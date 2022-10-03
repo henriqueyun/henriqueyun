@@ -10,6 +10,6 @@
 
 🐧 Linux
 
-📚 Learning Serverless Framework, AWS & Nest.js
+📚 Currently studying React
 
 🧩 [League of Legends](https://br.op.gg/summoner/userName=Henriqueyun), Livestreams & [Chess](https://www.chess.com/member/henriqueyun)
