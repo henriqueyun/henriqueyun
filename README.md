@@ -6,7 +6,7 @@
 
 📫 henriqueyun@gmail.com
 
-🔨 Node.js, SQL, Java, Docker, Kubernetes, Jenkins, HTML, CSS & Javascript
+🔨 Node.js, Vue, React, SQL, Java, Docker, Kubernetes, Jenkins, HTML, CSS & Javascript
 
 🐧 Linux
 
