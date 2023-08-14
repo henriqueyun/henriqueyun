@@ -13,3 +13,7 @@
 📚 Currently studying React
 
 🧩 [League of Legends](https://br.op.gg/summoner/userName=Henriqueyun), Livestreams & [Chess](https://www.chess.com/member/henriqueyun)
+
+___
+
+🆕 Check out my portfolio at [henriqueyun.dev](https://henriqueyun.dev)
