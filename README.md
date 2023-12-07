@@ -2,7 +2,7 @@
 
 ### Henrique Lima
 
-💼 Fullstack Developer
+💼 Full-stack Developer
 
 📫 henriqueyun@gmail.com
 
